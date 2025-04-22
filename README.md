@@ -1,5 +1,5 @@
 # GAMMAmotif
-**GAMMAmotif** is an R package for discovering motifs using the GAMMA model. It provides a core function `GAMMA_fun()` and a built-in dataset `sample_data` to help users quickly get started with motif discovery.
+**GAMMAmotif** is an R package for discovering gapped motifs using the GAMMA model. It provides a core function `GAMMA_fun()` and a built-in dataset `sample_data` to help users quickly get started with motif discovery.
 
 ## Installation
 You can install the released version of demotif from GitHub with:
@@ -150,7 +150,7 @@ print(pred_frame$est_A)   # Predicted motif location(s) within each sequence
 ```
 
 ## Reference
--   ---. et al. (2025+), “GAMMA: Gap-aware Motif Mining under Incomplete Labeling with Applications to MHC Motifs,” Working Paper.
+-   Xinyi, T. et al. (2025+), “GAMMA: Gap-aware Motif Mining under Incomplete Labeling with Applications to MHC Motifs,” Working Paper.
 
 ## Contact
 Xinyi Tang: xytang@link.cuhk.edu.hk; Ran Liu: ranliu@bnu.edu.cn

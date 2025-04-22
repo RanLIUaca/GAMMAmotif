@@ -1,0 +1,19 @@
+Package: GAMMAmotif
+Title: Bayesian Motif Discovery using MCMC
+Version: 0.1.0
+Authors@R: 
+        person("David", "Joy", , "xytang@link.cuhk.edu.hk", role = c("aut", "cre"))
+Description: This package provides tools for discovering sequence motifs using a Bayesian model with MCMC sampling.
+License: GPL-3
+Imports: 
+    MCMCpack,
+    stringr,
+    MASS,
+    ggplot2,
+    ggseqlogo
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
+LazyData: true

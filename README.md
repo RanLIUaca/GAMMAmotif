@@ -150,7 +150,7 @@ print(pred_frame$est_A)   # Predicted motif location(s) within each sequence
 ```
 
 ## Reference
--   Xinyi, T. et al. (2025+), “GAMMA: Gap-aware Motif Mining under Incomplete Labeling with Applications to MHC Motifs,” Working Paper.
+-   Tang, X., Liu, R. (2025+), “GAMMA: Gap-aware Motif Mining under Incomplete Labeling with Applications to MHC Motifs,” Working Paper.
 
 ## Contact
 Xinyi Tang: xytang@link.cuhk.edu.hk; Ran Liu: ranliu@bnu.edu.cn
